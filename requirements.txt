@@ -1,9 +1,0 @@
-streamlit
-firebase-admin
-google-generativeai
-twilio
-pandas
-matplotlib
-reportlab
-python-dotenv
-requests
